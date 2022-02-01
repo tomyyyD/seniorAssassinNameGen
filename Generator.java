@@ -51,7 +51,7 @@ public class Generator {
 			String oldVal = arr[randNum];
 			
 			arr[randNum] = arr[i];
-			arr[i] = oldVal;	
+			arr[i] = oldVal;
 		}
 	}
 }
